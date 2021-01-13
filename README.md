@@ -56,7 +56,7 @@ The mean PSI of the 3 manufacturing lots, as well as the mean PSI of each lot in
 
 ![lot3_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot3_ttest.png)
 
-  - The mean of Lot 3 is not statistically similar to the population mean of 1500PSI. A p-value of 0.04 is below the 0.05 significance level and does provide enough evidence to question the null hypothesis. The alternate hypothesis is that Lot 3 contains values statistically dissimialr to the population. 
+  - The mean of Lot 3 is not statistically similar to the population mean of 1500PSI. A p-value of 0.04 is below the 0.05 significance level and does provide enough evidence to question the null hypothesis. The alternate hypothesis is that Lot 3 contains values statistically dissimilar to the population. 
   
   
   
@@ -66,4 +66,4 @@ A potential study to evaluate the MechaCar against competition vehicles would in
 
 A multiple linear regression can be developed to evaluate various versions of the MechaCar and its competitors. The following vehicle data will be needed: cost, safety rating, and annual sales. Annual sales will be considered the dependent variable, and cost and safety rating will both be indepedent variables.
 
-This will determine if the metrics selected contribute to change in the number of sales. If the linear regression model has a slop of zero, we can not reject the null hypothesis, and will assume that cost and safety rating do not significantly impact vehicle sales. If the model does not have a slope of zero and has a p-value below our threshold of significance, the coeffiecients for each of the independent variables will indicate the degree to which each meteric impacts sales.
+This will determine if the metrics selected contribute to change in the number of sales. If the linear regression model has a slope of zero, we can not reject the null hypothesis, and will assume that cost and safety rating do not significantly impact vehicle sales. If the model does not have a slope of zero and has a p-value below our threshold of significance, the coeffiecients for each of the independent variables will indicate the degree to which each metric impacts sales.
