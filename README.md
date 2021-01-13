@@ -4,7 +4,7 @@
 
 A multiple linear regression model was created to analyze the impact of 5 vehicle characteristics on mpg: vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD capability. The results are as shown:
 
-![multiple_lr]()
+![multiple_lr](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/multiple_lr.png)
 
 From the p-values above, we can note that vehicle length and ground clearance are statistically unlikely to provide random amounts of variance to the linear model. These p-values are below our threshold of 0.05%.
 
