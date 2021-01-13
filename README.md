@@ -39,20 +39,20 @@ The full sample yielded the following t-test results:
 
   - The mean of all 3 manufacturing lots is statistically similar to the population mean of 1500PSI. A p-value of 0.06 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
   
-Lot 1 yielded the following t-test resluts:
+Lot 1 yielded the following t-test results:
 
 ![lot1_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot1_ttest.png)
 
   - The mean of Lot 1 is statistically similar to the population mean of 1500PSI. A p-value of 1 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
   
-Lot 2 yielded the following t-test resluts:
+Lot 2 yielded the following t-test results:
 
 ![lot2_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot2_ttest.png)
 
   - The mean of Lot 2 is statistically similar to the population mean of 1500PSI. A p-value of 0.61 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
 
 
-Lot 3 yielded the following t-test resluts:
+Lot 3 yielded the following t-test results:
 
 ![lot3_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot3_ttest.png)
 
