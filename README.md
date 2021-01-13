@@ -15,13 +15,13 @@ A multiple linear regression model was created to analyze the impact of 5 vehicl
 
 Statistical data was determined for the PSI rating of 150 suspension coils from three separate manufacturing lots. Design specifications dictate that the variance of the coils cannot exceed 100PSI.
 
-The overall mean, median, variance, and standard deviation are shown:
+**The overall mean, median, variance, and standard deviation are shown:**
 
 ![total_summary](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
 
   - Overall the batch of coils does not break specifications and has a variance of 62.3 PSI.
   
-The individual lots' mean, median, variance, and standard deviations are shown:
+**The individual lots' mean, median, variance, and standard deviations are shown:**
 
 ![lot_summary](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
@@ -31,29 +31,33 @@ The individual lots' mean, median, variance, and standard deviations are shown:
 
 ## T-Test on Suspension Coils
 
-The mean PSI 3 manufacturing lots, as well as the mean PSI of each lot individually, was tested against a given population mean of 1500PSI to determine statistically significant similarity.
+The mean PSI of the 3 manufacturing lots, as well as the mean PSI of each lot individually, was tested against a given population mean of 1500PSI to determine statistically significant similarity.
 
-The full sample yielded the following t-test results:
+**The full sample yielded the following t-test results:**
 
 ![total_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/total_ttest.png)
 
   - The mean of all 3 manufacturing lots is statistically similar to the population mean of 1500PSI. A p-value of 0.06 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
   
-Lot 1 yielded the following t-test results:
+**Lot 1 yielded the following t-test results:**
 
 ![lot1_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot1_ttest.png)
 
   - The mean of Lot 1 is statistically similar to the population mean of 1500PSI. A p-value of 1 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
   
-Lot 2 yielded the following t-test results:
+**Lot 2 yielded the following t-test results:**
 
 ![lot2_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot2_ttest.png)
 
   - The mean of Lot 2 is statistically similar to the population mean of 1500PSI. A p-value of 0.61 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
 
 
-Lot 3 yielded the following t-test results:
+**Lot 3 yielded the following t-test results:**
 
 ![lot3_ttest](https://github.com/hkoivisto/MechaCar_Statistical_Analysis/blob/main/lot3_ttest.png)
 
   - The mean of Lot 3 is statistically similar to the population mean of 1500PSI. A p-value of 0.04 is above the 0.05% significance level and does not provide enough evidence to reject the null hypothesis.
+  
+  
+  
+## Study Design: MechaCar vs Competition
